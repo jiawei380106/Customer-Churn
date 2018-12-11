@@ -7,7 +7,7 @@ Task performed:<br>
     <br>2. Explotory data analysis(including visulizations)</br>
     <br>3. Feature Engineering</br>
     <br>4. Build machine Learning model:</br>
-         <br>a. Decision Tree</br>
+         <br><space><space><space>a. Decision Tree</br>
          <br>b. Logistic regression with L1 regularization<br>
          <br>c. Random Forest<br>
          <br>d. Bagging and Boosting<br>
